@@ -94,3 +94,10 @@ img {
     max-width: 600px;
     margin: 20px 0 30px;
 }
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left
+}
